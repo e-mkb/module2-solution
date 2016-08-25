@@ -7,18 +7,23 @@ h1 {
   margin-bottom: 15px;
 }
 h1,h2,h3{
-  display:inline;
- float:right;
-  background:#cccccc;
+position:absolute;
+right:0;
+top:0;
+display:inline;
+height:50px;
+border:1px solid #333;
+background:#cccccc;
 }
 p {
 clear:both;
 }
 .row > div{
   padding:0 15px 0 15px;
+  position:relative;
 }
 .content{
-  margin:0 15px 0 15px;
+  padding:60px 15px 0 15px;
   background:#f2f2f2;
 }
 /* Simple Responsive Framework. */
