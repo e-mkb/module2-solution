@@ -7,11 +7,10 @@ h1 {
   margin-bottom: 15px;
 }
 h1,h2,h3{
-  position:absolute;
   display:inline;
-  right:0;
-  top:0;
+ float:right;
   clear:both;
+  background:#cccccc;
 }
 p {
 
