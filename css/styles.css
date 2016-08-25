@@ -20,16 +20,16 @@ right:15px;
 top:0;
 display:inline;
 height:50px;
-border:1px solid #333333;
-background:#0000ff;
+border:1px solid #000000;
+background:#d2d1d2;
 line-height:50px;
 padding:0 15px;
 }
 h3{
-  background:#ff0000;
+  background:#939093;
 }
 h4{
-  background:#00ff00;
+  background:#a6a3a5;
 }
 p {
 clear:both;
